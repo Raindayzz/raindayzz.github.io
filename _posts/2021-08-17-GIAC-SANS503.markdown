@@ -29,7 +29,7 @@ I decided to test my luck on one of the two practice exams, scored an 87% on the
 ### Test
 I took my test at 8PM EST using the proctorU software on July 26th. I would suggest to take it in person as the proctor/proctoring were very intrusive and had many problems that took away from some of the allocated time on the exam. I had 4 hours to complete the 100-150 questions including lab questions that had you work in a web-based VM to solve. Being a relatively fast test taker by nature, I completed in 2 hours and 17 minutes. I ended up with an 87%! I was pretty pumped with that score and it was accurate to my two previous practice exams. 
 
-![64f71e8e86f61d7f24bc12a71129beb4.png](:/33fae579d17a4f089aa0146bd72a7dcd)
+![exampass.png](/assets/images/SANS503/ExamPass.png)
 
 # Would I Recommend?
 
