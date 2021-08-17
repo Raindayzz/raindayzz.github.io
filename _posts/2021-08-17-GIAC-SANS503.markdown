@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "GIAC SANS 503 Review"
+date:   2021-07-27 12:45:14 -0400
+categories: review
+---
+
+# Overview
+
+[SANS 503](https://www.sans.org/cyber-security-courses/intrusion-detection-in-depth/) is a very techinical and in-depth look into network packets, network communication layers, application protocols, IDS/IPS, network related tools, and how to analyze all mentioned before. It starts at a very low level such as binary and builds it's way up often reflecting backwards to ensure you are understanding the material. 
+
+This course comes with a GIAC certification - "The GIAC Intrusion Analyst certification validates a practitioner’s knowledge of network and host monitoring, traffic analysis, and intrusion detection. GCIA certification holders have the skills needed to configure and monitor intrusion detection systems, and to read, interpret, and analyze network traffic and related log files." 
+
+I was luck enough to have my employeer at the time want me to get this as apart of the job requirment and fund it. This was my first SANS course and everyone at my team had the certification at the time and completed many more SANS course so they gave my some tips and insights.
+*** 
+
+# My Experience
+My course was the on-demand verison that came with the on-demand courses recorded, books shipped to you with the lectures, workbooks, and a smaller reference guide. 
+
+### Studying
+I had an understanding of basic networking and applications since I studied some of it in college and was working as a SOC analyst. I always lacked a good amount of foundational TCP/IP transporting theory and methods so this course was priceless for me. I recieved the books and instanly got started in June of 2021. I spent most of my time following the on demand version while following the book verison with a highlighter. I personally skipped the labs until the end of the course (for an unknown reason, just had problems with the VM and my new M1 Macbook that was not able to virtualize the .iso). After completing all 5 days of endless lectures and slides, I felt okay about the material but knew I needed to complete the labs.
+
+### Labs
+I went back and completed each lab, sometimes using hints from the workbook but tried to hit my head against the wall for a while before I did that. I had a good understanding of linux and CLI so most of the data parsing (cut, awk, grep, file re-directioning) came pretty natural to me. 
+
+### Practice Tests
+I decided to test my luck on one of the two practice exams, scored an 87% on the first test and knew I had to go learn IPv6 again as it was my achilees heel. Two days later, I attemed the second practice test and scored an 89%! I was excited but still nervous the actual exam was going to have a harder curve than the test.
+
+### Test
+I took my test at 8PM EST using the proctorU software on July 26th. I would suggest to take it in person as the proctor/proctoring were very intrusive and had many problems that took away from some of the allocated time on the exam. I had 4 hours to complete the 100-150 questions including lab questions that had you work in a web-based VM to solve. Being a relatively fast test taker by nature, I completed in 2 hours and 17 minutes. I ended up with an 87%! I was pretty pumped with that score and it was accurate to my two previous practice exams. 
+
+![64f71e8e86f61d7f24bc12a71129beb4.png](:/33fae579d17a4f089aa0146bd72a7dcd)
+
+# Would I Recommend?
+
+### YES
+
+I loved this course and it really helped my fill in gaps that I work with every day like SNORT rules, TCP Flags, IDS behavior and much more. It was really fufilling to know about each layer and down to the MTUs or byte sizes of each header. 
+
+
+*Disclaimer : I would NOT reccomened any SANS course unless an employeer is paying for it. 8K can be spent on so many udemy, books, or alternative course.*

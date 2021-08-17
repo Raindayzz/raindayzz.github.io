@@ -1,2 +1,4 @@
 # bhartyrs.github.io
-Website 
+#TODO 
+
+Find the images that correlate and how to add them to the pages.

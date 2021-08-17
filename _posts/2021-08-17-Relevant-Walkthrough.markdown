@@ -2,7 +2,7 @@
 layout: post
 title:  "Relevant Walkthrough"
 date:   2021-08-17 12:44:14 -0400
-categories: BoxWriteUp
+categories: boxwriteup
 ---
 
 
@@ -74,8 +74,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 
 We can see this has some more common Windows ports open. Let's check out port 80 (HTTP) as this is normally a large attack vector.
 
-Place image here
-
+![Pasted image 20210817114511.png](:/images/defaultiis.png)
 
 This looks to be a default IIS server. Nothing special, I will run some directory busting enumeration in the background for the time being using gobuster.
 
