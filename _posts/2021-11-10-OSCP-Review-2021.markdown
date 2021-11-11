@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "OSCP Reivew 2021"
+date:   2021-11-10 12:44:14 -0400
+categories: review
+---
+
+# Overview
+
+I will admit, I have always wanted to pursue this certification for a long time coming. If you haven't heard of the OSCP, it is a certification that Offensive Security offers in a course called [Penetration Testing With Kali Linux](https://www.offensive-security.com/pwk-oscp/). This course is a flagship one when it comes to pentesting/ethical hacking. I passed the OSCP on November 7th 2021.
+
+### Start 
+I bought the course on Febuary of 2021. I used 60 days of lab access to jump right into the material and start drinking from the firehose. I thought the material was good (I recieved the updated 1000 page course material) and all topics were demonstrated in videos. I skipped some the active directory stuff that I later re-visited. 
+
+### Labs
+I personally thought the labs were okay at best. The labs often were being worked on by one or more students at a time or evidence of previous students still existing on the machine. I ended up rooting around 35-40 machines in the first network and recieved two network keys. I never performed any pivoting into the seperate networks or enviroments. 
+
+### Playgrounds
+Around the same time my lab time was expiring, I began my subscription to OffSec Playgrounds where they have practice machines that are IMO the most like any exam machine. These are VERY good practice and may have old exam machines (if I'm not mistaken). I practiced these for a while until my exam came.
+
+### Exam 1 
+Not going to lie, I failed my first exam. I had 60 points at the eight hour mark and thought I had OSCP in the bag. I was wrong, this was not the case. I ended up failing and not getting a foothold on either 20 point box. I felt defeated but also upset and not motivated. I took around a month and half break from HTB/Offsec PG.
+
+### Exam 2
+I had to get it this time, I would even say I was less prepared. My exam was at 5AM on Sunday morning. Friday I went out to have a few beers with friends, saturday I didn't think about it a lot and had a campfire with friends. I ended up getting to sleep around 11PM (Daylight savings gave me an extra hour of sleep.). I was wide awake at 3:30 AM, hopped up and showered. 
+
+Killed the Buffer overflow in aroud hour and half. Next was the 25 pointer - 8 hours of hacking straight, rooted it. Took a 30 minute break. 
+
+10 pointer was harder than the first time. Required a few extra steps that plug and go exploit. Took around an hour and half to pop system level priv. 
+
+I was back at 60 points. All I needed was 10 points on either 20. I enumerated one for 2 hours. Nothing
+
+Switched to the other box. After about 2 hours.... I had an epiphany, got user in 2 minutes. 
+
+Ended up rooting that box, rookie stuff. 
+
+I had 20 points with about 7-8 hours left. I decided to start my report. Thanks goodness as I missed two screenshots on the buff overflow. Wrote the report and then submitted on Monday morning around 3AM (2 hours until my exam was supposed to end and the reporting time started).
+
+After the worst part of OSCP, the waiting time, I recieved the mail that I passed and OSCP certified.
+
+![OSCPExamResult.png](/assets/images/OSCP/OSCPExamResult.png)
