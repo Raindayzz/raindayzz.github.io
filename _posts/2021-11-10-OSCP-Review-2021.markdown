@@ -38,4 +38,4 @@ I had 20 points with about 7-8 hours left. I decided to start my report. Thanks 
 
 After the worst part of OSCP, the waiting time, I recieved the mail that I passed and OSCP certified.
 
-![examresult.png](/assets/images/oscp/examresult.png)
+![examresultnew.png](/assets/images/oscp/examresultnew.png)
