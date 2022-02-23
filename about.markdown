@@ -17,7 +17,7 @@ I am forever a student and this site is just to shed some light of my past exper
 
 
 **Certifications**: 
-- Debating OSEP vs OSWE
+- Current Enrolled on Offensive Security Experienced Penetration Testing (OSEP)
 - OSCP – Offensive Security Certified Professional (November 2021)
 - GIAC Certified Intrusion Analyst / SANS 503 (July 2021)
 - eLearn Security Junior Penetration Tester (August 2020)
