@@ -90,4 +90,4 @@ In the event that this alert fires, the following response procedures are recomm
 ***
 
 ### Additional Resources
-https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1053.005/T1053.005.md
+[https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1053.005/T1053.005.md](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1053.005/T1053.005.md)

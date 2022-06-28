@@ -51,6 +51,6 @@ This is a trivial Priv Esc that might come in handy to me, you, or anyone in the
 
 ### References:
 
-https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sc-config
+[https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sc-config](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/sc-config)
 
-https://docs.microsoft.com/en-us/windows/win32/services/localservice-account
+[https://docs.microsoft.com/en-us/windows/win32/services/localservice-account](https://docs.microsoft.com/en-us/windows/win32/services/localservice-account)
