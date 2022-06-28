@@ -27,4 +27,4 @@ I am forever a student and this site is just to shed some light of my past exper
 - Fishing
 - Sports (Most specifically Washington Sports)
 - Beer of all kinds
-- Apex Legends (for now at least)
+- Apex Legends, Rainbow 6
