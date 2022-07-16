@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "OSWP Reivew 2022"
+date:   2022-07-13 12:44:14 -0400
+categories: review
+---
+
+As I begin to write this review, I just submitted my exam report listening to a few acoustic sessions while enjoing a libation. That being said, I came across this course after if was revised from the backtrack 5 days where every home network and attack vector was WEP and with the right amount of IVs, every network was crackable in minutes.
+
+That being said, I recently "sprinted" this course and wanted to give a few of my thoughts, so cheers!
+
+### Reason
+
+As some may know, I've been working on OSEP lately with the learn one subscription so this course and exam came free to me (Thanks to my lovely employer). I was a bit down with some imposter syndome so I figured I'd get some confidence by taking this course and "sprinting" it. 
+
+I normally don't post about personal stuff but taking this course was nostalgic. I've always waned to be a 'hacker' so when I was in middle school, my brother and I would always tinker on school machines (install halo, ping networks, play with netcat, write basic) and we came across offsec training! Holy shoot, OSCP, OSWE, OSCE were all that I could remeber. My brother and I came to an agreement to make it in life! We were going cut grass, rake leaves, and plow snow and it was going to get me the wiFU (OSWP) course and he was going to pursue the OSCE (that's right, skip right past the OSCP). Together, we could not be stopped, wifi hacker + exploit hacker == hackerman. 
+
+** rant over ** We obviosuly never did either or, although we both studied some form of CS and work in IT now. Nostaligc none the less... 
+
+### Course 
+
+I started grooming throught the material on a plane and it was equally as boring as the plane's TV selection at first. The first, idk 4-5 modules, are standards, basics, and pretty complex low level network stuff. They are fundamental but I felt as if I knew some of the stuff and didn't care about some as it seemed irreleavant to my usage (key there :P ). When I did get into the hands on stuff, it was a blast. I purchased this wireless card on amazon (next day shipping) to fool with networks of my own (and perhaps my neighboors, jk :P ).
+
+Each lab covered a specific type of software/network and attack vectors. IMO, Wireless networks are a smaller attack vector than we'd think and often get overlooked in today's stack of technology. I used an Alfa wireless network card for my home labs, sick looking! Let me tell you, this thing does NOT play well with linux and even more so if it's a VM. I had to look into some kernel/driver stuff and if you know me, I don't play well with hardware and kernel stuff. 
+
+![WC.jpg](/assets/images/OSWP/WC.jpg)
+
+I used my access point (AP) for a development network and reset it and threw it on a different subnet to play around with capturing handshakes and cracking passwords. 
+
+I flew through the material in about three nights (4-5 hrs of study each). I set things up for my exam
+
+### Exam
+
+The exam is pretty normal for an offsec exam, except the timeline. This exam was 3h 45m compared to the 24/48/72 hr exams we are all used to from them. It was the same in the sense it was all hands on keyboard practical exam. As you know, I can't disclose anything related to the exam but if you learned the material in the course, I am confident you can pass!
+I had some tech difficulites with the wireless card stuff on my end for the first 45 minutes but eventually got things figured out. My exam started 20:00 EST aka 8PM EST for you noobs, I had all of the requirments by about 22:00 EST.... It was a fun exam and I wish I could say more but the exam guidelines and what it contains will be transparent when they send you the exam details before yours! 
+
+
+### My thoughts
+
+Right to the point, I woulnd't buy it. If you have learn one, it's an add on. NOT worth buying the 2k sub for this course tho. Hopefully I can work on some on site pentests/engagments to test out some of this wireless tests.
+
+![exam.jpg](/assets/images/OSWP/pass.png)
