@@ -18,10 +18,11 @@ I am forever a student and this site is just to shed some light of my past exper
 
 **Certifications**: 
 - Current Enrolled on Offensive Security Experienced Penetration Testing (OSEP)
-- OSCP – Offensive Security Certified Professional (November 2021)
-- GIAC Certified Intrusion Analyst / SANS 503 (July 2021)
-- eLearn Security Junior Penetration Tester (August 2020)
-- SPLUNK Core Certified User and Power User (September 2020)
+- OSWP - Offensive Security Wireless Professional 
+- OSCP – Offensive Security Certified Professional 
+- GIAC Certified Intrusion Analyst / SANS 503 
+- eLearn Security Junior Penetration Tester 
+- SPLUNK Core Certified User and Power User 
 
 **Side Interests**:
 - Fishing
