@@ -4,7 +4,7 @@ title: whoami
 permalink: /about/
 ---
 
-My name is Raindayzz and I am a Offensive Security Consultant based in the VA/DC area. I work professionally in the penetration testing field and have had SOC/blue team experience. My interests include network security, application security, pen-testing, sysadmin, threat detection/intelligence, and keeping up to date with the new exploits.
+My name is Raindayzz and I am an offensive security consultant based in the VA/DC area. I work professionally in the penetration testing field and have had SOC/blue team experience. My interests include network security, application security, pen-testing, sysadmin, threat detection/intelligence, and keeping up to date with the new exploits.
 
 
 I am forever a student and this site is just to shed some light of my past experiences or struggles I have had. 
