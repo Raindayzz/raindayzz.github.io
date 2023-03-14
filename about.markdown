@@ -13,11 +13,11 @@ I am forever a student and this site is just to shed some light of my past exper
 **Side Accomplishments**:
 - Bachelor of Science in Software Engineering
 - Former DII Athlete
+- Volunteer as a business coach for "E Squared," a program hosted by the 501(c)(3) nonprofit organization Career Partners, Inc. in Culpeper, Virginia. The semester-long program provides local high school students the opportunity to partner with coaches, create new business ventures and pitch them to hypothetical investors for a chance at receiving $10,000 in scholarship funds. 
 - Former Elementary 4th & 5th Grade President
 
 
 **Certifications**: 
-- Current Enrolled on Offensive Security Experienced Penetration Testing (OSEP)
 - OSWP - Offensive Security Wireless Professional 
 - OSCP – Offensive Security Certified Professional 
 - GIAC Certified Intrusion Analyst / SANS 503 
@@ -28,4 +28,4 @@ I am forever a student and this site is just to shed some light of my past exper
 - Fishing
 - Sports (Most specifically Washington Sports)
 - Beer of all kinds
-- Apex Legends, Rainbow 6
+- Apex Legends
