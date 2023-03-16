@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Goals for 2023"
+date:   2023-03-15 12:44:14 -0400
+categories: Blog
+---
+
+March in 2023 already! Wow, time is flying by due to life in general. Things have been hectic from a work and personal life perspective. Just wanted to write a small blog on things I have planned for the year in hope of reflecting on them later in the year and seeing what I accomplished and what went "wrong" per say
+
+1. CRTO - Certified Red Team Operator - Got the course through work, about half way done between flights and airport sitting. Hoping to get throughout a few more weeks of a fast Q1 and get a week or so downtime to lock in some material. I'd recommend the course so far, it's given me some pretty good info about CS and Red teaming. Although it's a Red Team course, I don't think it prepares you for red team engagments. I've seen the skill caliber of the people who do RT at my companies and it's a larger gap.
+
+2. API/Web Apps - Since December of 2022, I've been on web app gigs quite frequently and been rather successful. I volunteered at work to give a talk about some of the API attack vectors and being on more of a net pen team at work, we sometimes overthink some of the easy wins on the web perspective. Giving a 45ish min talk at my work conference this year (will post the vid when done ~julyish). Excited to do so, LFG.
+
+3. OSWE - This is an ambitious one.... I want to take and pass the OSWE course from Offsec. I'm going to pay out of pocket and try to at least get the ball rolling on this. In my older gigs (SOC, threat detection, Vuln, etc) it was easy taking pentest certs because I'm moving towards the goal and not doing it 8-10 hrs a day. Now that I'm in a faster pace consultant pentest gig, it's quite hard to get the motivation to study after doing it 8-10 hrs a day in general.
+
+
+Let's come back to this later in the year and see what we accomplished and what wasn't... Either way, cheers to the new year and best of luck to you all. Thanks for reading!
