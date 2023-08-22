@@ -20,6 +20,7 @@ I am forever a student and this site is just to shed some light of my past exper
 **Certifications**: 
 - OSWP - Offensive Security Wireless Professional 
 - OSCP – Offensive Security Certified Professional 
+- CRTO - Certified Red Team Operator
 - GIAC Certified Intrusion Analyst / SANS 503 
 - eLearn Security Junior Penetration Tester 
 - SPLUNK Core Certified User and Power User 
