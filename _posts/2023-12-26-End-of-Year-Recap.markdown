@@ -5,7 +5,7 @@ date:   2023-12-26 12:44:14 -0400
 categories: Blog
 ---
 
-Hi everyone! Hope everyone had a happy holidays - I wanted to write a small blog about a Goal sheet I put out back in March. I'm a big goal setting motivation person; I think speaking things into existance and manifesting them certainly help tackle them. The aforementioned blog post had three goals and I'll break them down below on the things I completed and my weak excuses :P 
+Hi everyone! Hope everyone had a happy holidays - I wanted to write a small blog about a [Goal sheet I put out back in March](https://raindayzz.com/blog/2023/03/15/Goals-for-2023.html). I'm a big goal setting motivation person; I think speaking things into existance and manifesting them certainly help tackle them. The aforementioned blog post had three goals and I'll break them down below on the things I completed and my weak excuses :P 
 
 1. CRTO - Certified Red Team Operator - Crushed this one! I was able to get the course through my employer (Optiv) and we had a large group take the course. It was overall a sweet course, maybe I'll write a blog post about the course but there is a ton of those already out there. As far as the exam, it was submitting points to a dashboard so no report PDF (Thank goodness) but with that being said, I don't remember much on what was on the exam. The exam was challenging but all required materails were in the course, just make sure you cover all things like Cobalt Strike profiles etc.... Goal achieved!
 
