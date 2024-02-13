@@ -13,4 +13,4 @@ Hi everyone! Hope everyone had a happy holidays - I wanted to write a small blog
 
 3. OSWE - I never was able to complete this in 2023. Between switching jobs, I had quite some stuff that kept me busy. I won't be dropping this one, just listing it on my 2024 list. Not afraid to say I failed the timeframe but won't fail on the exam hopefully.
 
-So all in, I was 2/3.. Not bad but 66% would be a D in a college class so I guess it's all relative. 
+So all in, I was 2/3.. Not bad but 66% would be a D in a college class so I guess it's all relative. Looking forward to 2024 and all of the things that come. I wish you all the best of luck and wellness in the new year.
