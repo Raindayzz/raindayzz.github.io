@@ -1,0 +1,62 @@
+---
+layout: post
+title:  "GIAC SANS 660 Review & GXPN Certificate"
+date:   2024-08-03 12:45:14 -0400
+categories: review
+---
+
+# Overview
+
+[SANS 660](https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/) is a very wide course that provides detailed information and labs about kind of the next "entry" level of pentesting. The course assumes you know things that any penetration tester or someone who has passed something like OSCP to get started. Familar with how to use windows/linux CLIs, shells, post exploitation and sich. 
+
+This course comes with a GIAC certification - "The GIAC Exploit Researcher and Advanced Penetration Tester (GXPN) certification validates a practitioner's ability to find and mitigate significant security flaws in systems and networks. GXPN certification holders have the skills to conduct advanced penetration tests and model the behavior of attackers to improve system security, and the knowledge to demonstrate the business risk associated with these behaviors." 
+
+I was lucky enough to have the opportunity to have my employer pay for the training and the certification. Thanks to AWS and their [Strive to be the Earth's Best Employer](https://www.amazon.jobs/content/en/our-workplace/leadership-principles). This is my second course from SANS but ironically it's been about five years since I took the last one which was SANS 503. You can find that review [here](https://raindayzz.com/review/2021/07/27/GIAC-SANS503.html)
+*** 
+
+# My Experience
+My course was the on-demand verison that came with the on-demand courses recorded, books shipped to you with the lectures, workbooks, and a smaller reference guide. I was disappointed that the hard material didn't contain a few small 
+
+### Studying
+
+I have about 5ish years of penetration testing experience on a whole stack of technology. I've done networks, binary, web, api, IoT, and SE testing. I've always lacked a foundation in crypto which was a topic that was covered in the course. I recieved the books and go started instantly. I have some "dev time" at work which allows the engineers to work on projects, ideas, trainings, and automation. This seemed like a great week that take advantage of to sprint through the course. I spent most of my time listening to the videos, following along with my highlighter and index paper, highlighting things that seemed to be important. 
+
+I got throught the course in four days from working from home. I skipped some of the longer videos from labs as I was working on them at a later date and wanted to get through the material.
+
+
+
+### Labs
+I didn't do too many labs, I did some of the setup and I will get into the rant of this later. 
+
+### Practice Tests
+I took two practice tests and they were helpful. The first one, I just sprinted through without notes, no indexing or looking through notes. I scored a 63% which is failing in this case. This was ok to me since I didn't use any notes and just top of mind material. The Second test I scored in the 70s with using "some" material. 
+
+### Test
+I took my test at 5:20PM EST using the proctorU software. I'm going to list my rant below but the software was a PITA. Being more specific to the test, I had 60 questions and 3 hours to pass. There were 6 Lab, hands on questions that ranged from similar practice question tests. I thought that some of the questions were ambigious by design. I can't reveal any actual thoughts on this since it would disclose exam questions but some of them were kind of opinion on what would be best in a situation. I completed the test in about 2 hours and 20 minutes. I passed the exam obtaining the GXPN certification with an 88%
+
+
+![exampass.png](/assets/images/SANS660/GXPN.png)
+
+### Rant Time
+
+I have two significant points in which why I wouldn't reccomend this course/cert. I'll get started with the one that I think SANS is responsible for and secondly something they  might have less control over.
+
+1. Lack of M1 (ARM chip) support in the labs. When I first heard of this, it was back in 2021 when I took SANS 503. This was the first year Apple was coming out with the chips and I was an owner of a Macbook Air with the M1 at the time. I cut them a break as the migration from intel based labs to ARM is quite a difficult task. 
+
+FOUR years later and Apple still improving to make the M series chip with other moving towards ARM such Snapdragon on Windows, SANS has visibly made no progress to the development or support of the labs on these systems. I'm not sure what they are waiting on or have blockers that aren't apperant to me but it's quite ridiculious that the labs aren't compatiable with ARM based chips. SANS offered high quality, very expensive trainings that are 7-10k for a course. Get a move on it.
+
+Here is the snippet from the Sec 660 course, I spot checked a few others and they seem to be the same. 
+```
+CRITICAL: Apple systems using the M1/M2 processor line cannot perform the necessary virtualization functionality and therefore cannot in any way be used for this course.
+```
+2. ProctorU based software was an unpleasant experience. I knew from my previous SANS 503 course I'd have to work with this PITA again. While installing my spyware that they offer, I was assigned a proctor, let them share screen and things of that nature. I knew that was coming, however, I didn't know I'd need not only my drivers lisence but the proctor also asked for my passport. I just feel as if a cyber security course online needs my DL and passport is a bit invasive.. I know cheating must be an issue if that is the case but to what extent are we going to draw the line. Secondly, the proctor did all of the spyware install but then asked to take control of my mouse and PC. The proctor disabled keyboard screenshot shortcuts in my accessibility settings (I thought this was overkill but next time maybe let me do it?). The proctor failed to re-enable these or instruct to do so after the exam leaving these features disabled. The software also didn't reccomend disabling the permissions given or removing the ProctorU spyware. 
+
+I find it ironic that a course in the cyber field would be so intrusive and uncalibrated. 
+
+# Would I Recommend?
+
+### Maybe
+
+I liked the course to an extent, the material was helpful and good but just very broad. These fields are so complex that teaching crypto, network, and post explotation could be it's own course. The Linux and Windows Exploit dev could be seperated into its own course as well.  
+
+*Disclaimer : I would NOT reccomened any SANS course unless an employeer is paying for it. 8K can be spent on so many udemy, books, or alternative course.*
