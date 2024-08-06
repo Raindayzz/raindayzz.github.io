@@ -20,6 +20,8 @@ Work: Deloitte, Optiv, AWS
 
 
 **Certifications**: 
+- GXPN - Exploit Researcher and Advanced Penetration Tester
+- OSWE - Offensive Security Web Expert
 - OSWP - Offensive Security Wireless Professional 
 - OSCP – Offensive Security Certified Professional 
 - CRTO - Certified Red Team Operator
