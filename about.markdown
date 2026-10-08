@@ -10,8 +10,11 @@ My name is Raindayzz and I am an offensive security consultant based in the VA/D
 I am forever a student and this site is just to shed some light of my past experiences or struggles I have had. 
 
 Degree: Bachelor of Science in Software Engineering
+- MBA, Auburn University (Expected 2027)
 
 Work: Deloitte, Optiv, AWS
+- AWS - Offensive Prelaunch Security
+- Amazon Offensive Network Security Team
 
 **Side Accomplishments**:
 - Former DII Athlete
@@ -19,8 +22,9 @@ Work: Deloitte, Optiv, AWS
 - Former Elementary 4th & 5th Grade President
 
 
-**Certifications**: 
+**Certifications**:
 - GXPN - Exploit Researcher and Advanced Penetration Tester
+- OSAI - OffSec AI Red Teamer
 - OSWE - Offensive Security Web Expert
 - OSWP - Offensive Security Wireless Professional 
 - OSCP – Offensive Security Certified Professional 
